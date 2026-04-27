@@ -1,5 +1,7 @@
 # HP LaserJet P1005 macOS Driver Patcher
 
+https://www.youtube.com/watch?v=4LRpo_ic_Kw - guide (Russian language, 12 subtitles)
+
 A small Bash utility for patching legacy macOS `.pkg` printer driver installers that are blocked by macOS version checks.
 
 Tested with the HP LaserJet P1005 driver package.
